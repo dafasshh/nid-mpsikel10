@@ -1,0 +1,11 @@
+{
+  "title": "MPSI web",
+  "description": "Manage projects, tasks, team workloads, and deadlines in one dashboard, helping project managers spot bottlenecks and keep work on track.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
